@@ -1,1 +1,5 @@
-./env
+# Env / secrets
+.env
+.env.*
+*.env
+*.env.*
